@@ -1,4 +1,4 @@
-# [B] Diagrama UML corregido y unión tour
+# [B] Diagrama UML corregido y unión tour 2 
 
 ## TFG Ingeniería Informática - Fernando Pisot
 
