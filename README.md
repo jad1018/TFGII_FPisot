@@ -159,3 +159,4 @@ Si tienes preguntas o necesitas más información, no dudes en contactarme:
 ---
 
 ¡Gracias por tu interés en este proyecto! 💡
+Cambio persona A solución de bugs
