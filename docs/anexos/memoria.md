@@ -1,0 +1,1 @@
+- Correcciones menores en memoria y anexos.
