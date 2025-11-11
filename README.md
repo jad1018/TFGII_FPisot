@@ -1,4 +1,4 @@
-# Eco City Tours
+# [B] Diagrama UML corregido y unión tour
 
 ## TFG Ingeniería Informática - Fernando Pisot
 
