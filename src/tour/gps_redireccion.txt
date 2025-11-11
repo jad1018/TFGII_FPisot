@@ -1,0 +1,1 @@
+// Pseudocódigo de redirección por estado GPS
